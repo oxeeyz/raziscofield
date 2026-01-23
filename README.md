@@ -1,148 +1,249 @@
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:007bff&height=150&section=header&text=Hey%20I'm%20Razi%20👋&fontSize=40&fontColor=ffffff" width="100%"/>
+<div align="center">
 
-<!-- Typing Animation -->
+<!-- Dynamic Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Razi%20Scofield&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Security%20Enthusiast%20%7C%20Bot%20Creator&descSize=18&descAlignY=55" width="100%"/>
+
+</div>
+
+<!-- Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Backend+Dev+%7C+Ethical+Hacker+in+Training;Building+Bots+%7C+Infra+Tools+%7C+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Ethical+Hacker;Building+Scalable+Systems+%26+Security+Tools;Creator+of+Nazha+Discord+Bot+%F0%9F%8E%B5;Exploring+Reverse+Engineering+%26+Exploit+Dev" alt="Typing Animation" />
 </p>
-
----
-
-## 👨‍💻 About Me  
 
 <div align="center">
-  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:20px;"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Age-16%20Years%20Old-00FF9F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-007bff?style=for-the-badge&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Current%20Focus-Reverse%20Engineering%20&%20Buffer%20Overflows-ff69b4?style=for-the-badge" />
-</p>
-
----
-
-💡 **Self-taught backend developer and ethical hacking enthusiast** building modern bots, infra tools & automation systems.  
-
-⚡ **Developer of [Nazha](https://nazha.netlify.app)** – A free, feature-rich Discord Music Bot.  
-
-📚 **Stack:** Node.js • TypeScript • Python • Pawn
-
-🎯 **Goals 2025:** Master low-level security, reverse engineering, and exploit development.  
-
-🤝 **Open to collaborations** on security tools, Discord bots, or backend infrastructure.  
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/Loves%20to%20Work%20On-Automation%20%7C%20APIs%20%7C%20Security-00FF9F?style=for-the-badge" />
-</p>
+<!-- Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=raziscofield&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/raziscofield)
+[![GitHub Followers](https://img.shields.io/github/followers/raziscofield?label=Followers&style=for-the-badge&color=00ff9f&logo=github)](https://github.com/raziscofield?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/raziscofield?label=Total%20Stars&style=for-the-badge&color=ffd700&logo=github)](https://github.com/raziscofield?tab=repositories)
 
 </div>
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```yaml
+name: Razi Scofield
+located_in: Kerala, India
+age: 16
+current_focus: Higher Studies & Advanced Backend Development
+learning: Exploit Development, Buffer Overflows, Reverse Engineering
+
+education:
+  - "Self-taught Developer since early teens"
+  - "Currently pursuing Higher Studies"
+  - "Continuous learner in Cybersecurity"
+
+ambitions:
+  - "Master low-level security & exploit development"
+  - "Build enterprise-grade backend systems"
+  - "Contribute to open-source security tools"
+
+fun_fact: "Started coding at 14, now building production bots used by thousands!"
+```
+
+### 💡 What I'm Up To
+
+- 🎵 **Building [Nazha](https://nazha.netlify.app)** - Feature-rich Discord Music Bot serving thousands of users
+- 🔐 **Deep-diving into Exploit Development** - Buffer overflows, ROP chains, and binary exploitation
+- 🏗️ **Creating Backend Infrastructure** - Scalable APIs, automation tools, and microservices
+- 🐧 **Mastering Linux & DevOps** - Docker, CI/CD pipelines, and cloud infrastructure
+- 📚 **Balancing studies with coding** - Pursuing higher education while contributing to open source
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,mysql,linux,docker,git,html,tailwind,vscode,php,kali,ubuntu,react,css,js,nginx,cloudflare,aws,c,cs,discord,firebase,github,laravel,sqlite,regex,postgres,lavalink" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,c,cs,pawn,php,bash" alt="Languages" />
+</p>
+
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,mysql,postgres,mongodb,sqlite,redis,firebase" alt="Backend" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,aws,linux,ubuntu,kali" alt="DevOps" />
+</p>
+
+### Frontend & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,figma" alt="Frontend" />
+</p>
+
+### Security & Pentesting
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logo=ida&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Currently Working On / Learning  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-Exploit%20Dev-00FF9F?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Working%20On-Na%20zh%20a-007bff?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research-Buffer%20Overflow-ff69b4?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raziscofield&theme=tokyonight&hide_border=true&background=0D1117&fire=00FF9F&currStreakLabel=00FF9F" height="160" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raziscofield&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raziscofield&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF9F&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=00FF9F&dates=888888" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏗 Contributions 3D Graph  
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raziscofield/raziscofield/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-</p>
-
----
-
-## 🔥 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raziscofield&bg_color=0D1117&color=00FF9F&line=007bff&point=00FF9F&area=true&hide_border=true" width="95%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raziscofield&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+</div>
 
 ---
 
-## 📝 Random Dev Quote  
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raziscofield&bg_color=0D1117&color=00D9FF&line=00FF9F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 ---
 
-## ⭐ Live GitHub Metrics  
+## 🎯 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/raziscofield?label=Followers&style=for-the-badge&color=00FF9F">
-  <img src="https://img.shields.io/github/stars/raziscofield?label=Stars&style=for-the-badge&color=007bff">
-  <img src="https://img.shields.io/github/repos/raziscofield?label=Public%20Repos&style=for-the-badge&color=ff69b4">
-</p>
+<div align="center">
 
----
+<a href="https://github.com/raziscofield/Discord-Monitor-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Discord-Monitor-Bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F" />
+</a>
 
-## 📌 Featured Projects  
+<a href="https://github.com/raziscofield/Mongo-db-gen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Mongo-db-gen&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/raziscofield/Discord-Monitor-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Discord-Monitor-Bot&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
-  </a>
-  <a href="https://github.com/raziscofield/Mongo-db-gen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Mongo-db-gen&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements  
+## 🎨 Skills Breakdown
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raziscofield&theme=onedark&row=1&column=6&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://nazha.netlify.app"><img src="https://img.shields.io/badge/🌐%20Website-121212?style=for-the-badge&logo=firefox&logoColor=white"></a>
-  <a href="mailto:rajihraju11@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/💬%20Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+```text
+Backend Development  ████████████████████░   95%
+Discord Bot Dev      ███████████████████░░   90%
+Security/Pentesting  ████████████████░░░░░   80%
+DevOps & Cloud       ███████████████░░░░░░   75%
+Frontend Development ████████████░░░░░░░░░   60%
+```
 
 ---
 
-<!-- Profile Visitors Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raziscofield&label=Profile%20Views&color=00FF9F&style=flat-square" alt="Profile views" />
-</p>
+## 🔥 Current Learning Path
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60"/><br/>
+      <b>Low-Level Programming</b><br/>
+      <sub>C, Assembly, Memory Management</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/bug.png" width="60"/><br/>
+      <b>Exploit Development</b><br/>
+      <sub>Buffer Overflows, ROP, Shellcoding</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/reverse.png" width="60"/><br/>
+      <b>Reverse Engineering</b><br/>
+      <sub>IDA Pro, Ghidra, Binary Analysis</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00ff9f&height=150&section=footer" width="100%"/>
+## 💼 My Specialties
+
+<details>
+<summary><b>🤖 Discord Bot Development</b></summary>
+<br/>
+
+- 🎵 Music bots with Lavalink integration
+- 🛡️ Moderation & management systems
+- 📊 Analytics & monitoring tools
+- ⚡ High-performance, scalable architecture
+- 🎨 Custom slash commands & interactions
+
+</details>
+
+<details>
+<summary><b>🔧 Backend Engineering</b></summary>
+<br/>
+
+- 🚀 RESTful & GraphQL APIs
+- 🔐 Authentication & authorization systems
+- 📦 Microservices architecture
+- 🗄️ Database design & optimization
+- ⚙️ Background job processing
+
+</details>
+
+<details>
+<summary><b>🔒 Security & Ethical Hacking</b></summary>
+<br/>
+
+- 🎯 Penetration testing methodologies
+- 🐛 Vulnerability research & exploitation
+- 🔍 Web application security
+- 💉 SQL injection & XSS prevention
+- 🛡️ Secure coding practices
+
+</details>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Nazha_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nazha.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875402851986325504)
+[![Email](https://img.shields.io/badge/Email-rajihraju11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajihraju11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-raziscofield-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raziscofield)
+
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
+
+</div>
+
+---
+
+## 🎵 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+### 🌟 "Building the future, one commit at a time" 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+
+**⭐ Don't forget to star my repos if you find them useful! ⭐**
+
+</div>
