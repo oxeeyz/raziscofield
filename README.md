@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Security+Explorer;Owner+of+Techlyn+Developments;Creator+of+Nazha+Discord+Bot;Learning+Java+%26+Rust" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Security+Explorer;Creator+of+Nazha" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -49,11 +49,10 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 
 ### What I'm Up To
 
-- Building [Nazha](https://nazha.netlify.app) - Feature-rich Discord Music Bot serving thousands of users
+- Building [Nazha](https://top.gg/bot/1124681788070055967/vote) - Feature-rich Discord Music Bot serving thousands of users
 - Owner of Techlyn Developments - Growing developer community and tech solutions
 - Learning Java & Rust - Expanding programming language expertise
 - Creating Backend Infrastructure - Scalable APIs, automation tools, and microservices
-- Mastering Linux & DevOps - Docker, CI/CD pipelines, and cloud infrastructure
 - Balancing studies with coding - Pursuing higher education while contributing to open source
 
 ---
@@ -231,7 +230,7 @@ Frontend Development ████████████░░░░░░░�
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Nazha_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nazha.netlify.app)
+[![Website](https://img.shields.io/badge/🌐_Nazha_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nazha.online)
 [![Discord](https://img.shields.io/badge/Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875402851986325504)
 [![Email](https://img.shields.io/badge/Email-rajihraju11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajihraju11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-raziscofield-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raziscofield)
