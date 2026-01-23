@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Security+Explorer;Creator+of+Nazha" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Security+Explorer;Developer+of+Nazha" alt="Typing Animation" />
 </p>
 
 <div align="center">
