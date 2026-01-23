@@ -48,7 +48,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,cpp,py,bash,mysql,linux,docker,git,html,tailwind,vscode,php,androidstudio,cmake,kali,ubuntu,react,css,js,nginx,gcp,cloudflare,aws,arch,c,cs,discord,firebase,github,laravel,rust,sqlite,regex,postgres,lavalink" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,mysql,linux,docker,git,html,tailwind,vscode,php,kali,ubuntu,react,css,js,nginx,cloudflare,aws,c,cs,discord,firebase,github,laravel,sqlite,regex,postgres,lavalink" />
 </p>
 
 ---
