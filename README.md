@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Ethical+Hacker;Building+Scalable+Systems+%26+Security+Tools;Creator+of+Nazha+Discord+Bot+%F0%9F%8E%B5;Exploring+Reverse+Engineering+%26+Exploit+Dev" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=16+%7C+Backend+Developer+%7C+Security+Explorer;Owner+of+Techlyn+Developments;Creator+of+Nazha+Discord+Bot;Learning+Java+%26+Rust" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -30,28 +30,31 @@ name: Razi Scofield
 located_in: Kerala, India
 age: 16
 current_focus: Higher Studies & Advanced Backend Development
-learning: Exploit Development, Buffer Overflows, Reverse Engineering
+learning: Java, Rust, Cybersecurity Fundamentals
+role: Owner of Techlyn Developments & Dev Community
 
 education:
   - "Self-taught Developer since early teens"
   - "Currently pursuing Higher Studies"
-  - "Continuous learner in Cybersecurity"
+  - "Continuous learner in Software Engineering"
 
 ambitions:
-  - "Master low-level security & exploit development"
+  - "Learn ethical hacking & security practices"
   - "Build enterprise-grade backend systems"
-  - "Contribute to open-source security tools"
+  - "Grow Techlyn Developments community"
+  - "Master Java & Rust programming"
 
 fun_fact: "Started coding at 14, now building production bots used by thousands!"
 ```
 
-### 💡 What I'm Up To
+### What I'm Up To
 
-- 🎵 **Building [Nazha](https://nazha.netlify.app)** - Feature-rich Discord Music Bot serving thousands of users
-- 🔐 **Deep-diving into Exploit Development** - Buffer overflows, ROP chains, and binary exploitation
-- 🏗️ **Creating Backend Infrastructure** - Scalable APIs, automation tools, and microservices
-- 🐧 **Mastering Linux & DevOps** - Docker, CI/CD pipelines, and cloud infrastructure
-- 📚 **Balancing studies with coding** - Pursuing higher education while contributing to open source
+- Building [Nazha](https://nazha.netlify.app) - Feature-rich Discord Music Bot serving thousands of users
+- Owner of Techlyn Developments - Growing developer community and tech solutions
+- Learning Java & Rust - Expanding programming language expertise
+- Creating Backend Infrastructure - Scalable APIs, automation tools, and microservices
+- Mastering Linux & DevOps - Docker, CI/CD pipelines, and cloud infrastructure
+- Balancing studies with coding - Pursuing higher education while contributing to open source
 
 ---
 
@@ -59,7 +62,7 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,c,cs,pawn,php,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,java,rust,c,cs,pawn,php,bash" alt="Languages" />
 </p>
 
 ### Backend & Databases
@@ -132,77 +135,77 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 
 ---
 
-## 🎨 Skills Breakdown
+## Skills Breakdown
 
 ```text
 Backend Development  ████████████████████░   95%
 Discord Bot Dev      ███████████████████░░   90%
-Security/Pentesting  ████████████████░░░░░   80%
 DevOps & Cloud       ███████████████░░░░░░   75%
+Java & Rust          ████████████░░░░░░░░░   60%
 Frontend Development ████████████░░░░░░░░░   60%
 ```
 
 ---
 
-## 🔥 Current Learning Path
+## Current Learning Path
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60"/><br/>
-      <b>Low-Level Programming</b><br/>
-      <sub>C, Assembly, Memory Management</sub>
+      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60"/><br/>
+      <b>Java Development</b><br/>
+      <sub>Spring Boot, Enterprise Applications</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/bug.png" width="60"/><br/>
-      <b>Exploit Development</b><br/>
-      <sub>Buffer Overflows, ROP, Shellcoding</sub>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" width="60"/><br/>
+      <b>Rust Programming</b><br/>
+      <sub>Systems Programming, Memory Safety</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/reverse.png" width="60"/><br/>
-      <b>Reverse Engineering</b><br/>
-      <sub>IDA Pro, Ghidra, Binary Analysis</sub>
+      <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60"/><br/>
+      <b>Cybersecurity</b><br/>
+      <sub>Ethical Hacking, Security Practices</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 My Specialties
+## My Specialties
 
 <details>
-<summary><b>🤖 Discord Bot Development</b></summary>
+<summary><b>Discord Bot Development</b></summary>
 <br/>
 
-- 🎵 Music bots with Lavalink integration
-- 🛡️ Moderation & management systems
-- 📊 Analytics & monitoring tools
-- ⚡ High-performance, scalable architecture
-- 🎨 Custom slash commands & interactions
+- Music bots with Lavalink integration
+- Moderation & management systems
+- Analytics & monitoring tools
+- High-performance, scalable architecture
+- Custom slash commands & interactions
 
 </details>
 
 <details>
-<summary><b>🔧 Backend Engineering</b></summary>
+<summary><b>Backend Engineering</b></summary>
 <br/>
 
-- 🚀 RESTful & GraphQL APIs
-- 🔐 Authentication & authorization systems
-- 📦 Microservices architecture
-- 🗄️ Database design & optimization
-- ⚙️ Background job processing
+- RESTful & GraphQL APIs
+- Authentication & authorization systems
+- Microservices architecture
+- Database design & optimization
+- Background job processing
 
 </details>
 
 <details>
-<summary><b>🔒 Security & Ethical Hacking</b></summary>
+<summary><b>Community & Leadership</b></summary>
 <br/>
 
-- 🎯 Penetration testing methodologies
-- 🐛 Vulnerability research & exploitation
-- 🔍 Web application security
-- 💉 SQL injection & XSS prevention
-- 🛡️ Secure coding practices
+- Owner of Techlyn Developments
+- Building and managing developer communities
+- Mentoring aspiring developers
+- Organizing tech events and collaborations
+- Creating educational content
 
 </details>
 
@@ -240,10 +243,10 @@ Frontend Development ████████████░░░░░░░�
 
 <div align="center">
 
-### 🌟 "Building the future, one commit at a time" 🌟
+### "Building the future, one commit at a time"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 
-**⭐ Don't forget to star my repos if you find them useful! ⭐**
+**Star my repos if you find them useful**
 
 </div>
