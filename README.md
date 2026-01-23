@@ -92,7 +92,7 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=FFFFFF" alt="GitHub Stats"/>
@@ -101,6 +101,22 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=raziscofield&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF9F&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=00FF9F&dates=888888" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Discord Presence
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/875402851986325504?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideDiscrim=true&idleMessage=Just%20vibing..." alt="Discord Presence" />
+</div>
+
+---
+
+## Spotify Activity
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
 
 ---
