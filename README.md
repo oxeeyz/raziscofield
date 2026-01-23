@@ -115,7 +115,7 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 ## Spotify Activity
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31suna4quhqpr7evfmajwnsklbk4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
 ---
