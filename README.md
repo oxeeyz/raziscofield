@@ -13,9 +13,9 @@
 <div align="center">
 
 <!-- Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=raziscofield&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/raziscofield)
-[![GitHub Followers](https://img.shields.io/github/followers/raziscofield?label=Followers&style=for-the-badge&color=00ff9f&logo=github)](https://github.com/raziscofield?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/raziscofield?label=Total%20Stars&style=for-the-badge&color=ffd700&logo=github)](https://github.com/raziscofield?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=knownasrazi&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/knownasrazi)
+[![GitHub Followers](https://img.shields.io/github/followers/knownasrazi?label=Followers&style=for-the-badge&color=00ff9f&logo=github)](https://github.com/knownasrazi?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/knownasrazi?label=Total%20Stars&style=for-the-badge&color=ffd700&logo=github)](https://github.com/knownasrazi?tab=repositories)
 
 </div>
 
@@ -94,12 +94,12 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raziscofield&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knownasrazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knownasrazi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raziscofield&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF9F&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=00FF9F&dates=888888" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=knownasrazi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF9F&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=00FF9F&dates=888888" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -123,14 +123,14 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raziscofield&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=knownasrazi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raziscofield&bg_color=0D1117&color=00D9FF&line=00FF9F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knownasrazi&bg_color=0D1117&color=00D9FF&line=00FF9F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 ---
 
@@ -138,12 +138,12 @@ fun_fact: "Started coding at 14, now building production bots used by thousands!
 
 <div align="center">
 
-<a href="https://github.com/raziscofield/Discord-Monitor-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Discord-Monitor-Bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F" />
+<a href="https://github.com/knownasrazi/Discord-Monitor-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knownasrazi&repo=Discord-Monitor-Bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F" />
 </a>
 
-<a href="https://github.com/raziscofield/Mongo-db-gen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Mongo-db-gen&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F" />
+<a href="https://github.com/knownasrazi/Mongo-db-gen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knownasrazi&repo=Mongo-db-gen&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F" />
 </a>
 
 </div>
@@ -231,9 +231,9 @@ Frontend Development ████████████░░░░░░░�
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Nazha_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nazha.online)
-[![Discord](https://img.shields.io/badge/Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875402851986325504)
+[![Discord](https://img.shields.io/badge/Discord-knownasrazi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875402851986325504)
 [![Email](https://img.shields.io/badge/Email-rajihraju11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajihraju11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-raziscofield-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raziscofield)
+[![GitHub](https://img.shields.io/badge/GitHub-knownasrazi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knownasrazi)
 
 </div>
 
