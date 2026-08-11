@@ -19,12 +19,12 @@
 
 I'm a backend developer from Kerala, India, focused on building reliable, scalable infrastructure — from high-traffic Discord bots to backend APIs and automation tooling. I run **Techlyn Developments**, a small dev community, and I'm currently deepening my knowledge of Java, Rust, and applied cybersecurity.
 
-- 🎧 Building **[Nazha](https://top.gg/bot/1124681788070055967/vote)** — a feature-rich Discord music bot serving thousands of active users
-- 🏗️ Owner of **Techlyn Developments** — a growing developer community and tech studio
-- ⚙️ Designing backend infrastructure: REST/GraphQL APIs, microservices, and automation tools
-- 📚 Currently learning: Java (Spring Boot), Rust, and security fundamentals
-- 🌱 Interested in: ethical hacking, systems programming, and distributed backend architecture
-- 💬 Ask me about: Discord bot architecture, Lavalink, Node.js/TypeScript backends, MongoDB schema design
+- Building **[Nazha](https://top.gg/bot/1124681788070055967/vote)** — a feature-rich Discord music bot serving thousands of active users
+- Owner of **Techlyn Developments** — a growing developer community and tech studio
+- Designing backend infrastructure: REST/GraphQL APIs, microservices, and automation tools
+- Currently learning: Java (Spring Boot), Rust, and security fundamentals
+- Interested in: ethical hacking, systems programming, and distributed backend architecture
+- Ask me about: Discord bot architecture, Lavalink, Node.js/TypeScript backends, MongoDB schema design
 
 <br>
 
@@ -33,19 +33,19 @@ I'm a backend developer from Kerala, India, focused on building reliable, scalab
 <td width="50%" valign="top">
 
 **Quick Facts**
-- 📍 Based in Kerala, India
-- 🎯 Focus: Backend systems & bot infrastructure
-- 🏢 Owner of Techlyn Developments
-- 📈 Actively growing Nazha's user base
+- Based in Kerala, India
+- Focus: Backend systems & bot infrastructure
+- Owner of Techlyn Developments
+- Actively growing Nazha's user base
 
 </td>
 <td width="50%" valign="top">
 
 **Currently**
-- 🔭 Working on: Nazha v2 rewrite
-- 🌱 Learning: Rust & Spring Boot
-- 🤝 Open to: collaborations & community projects
-- ⚡ Fun fact: started coding at 14
+- Working on: Nazha v2 rewrite
+- Learning: Rust & Spring Boot
+- Open to: collaborations & community projects
+- Fun fact: started coding at 14
 
 </td>
 </tr>
@@ -153,7 +153,7 @@ I'm a backend developer from Kerala, India, focused on building reliable, scalab
 <tr>
 <td width="50%" valign="top">
 
-**🎵 Nazha**
+**Nazha**
 <br>
 Feature-rich Discord music bot with Lavalink-powered audio, queue management, filters, and a public dashboard. Actively maintained and used by thousands of servers.
 <br><br>
@@ -162,7 +162,7 @@ Feature-rich Discord music bot with Lavalink-powered audio, queue management, fi
 </td>
 <td width="50%" valign="top">
 
-**🛡️ Discord-Monitor-Bot**
+**Discord-Monitor-Bot**
 <br>
 Monitoring and alerting bot for Discord servers — tracks activity, uptime, and events, and reports them in real time.
 <br><br>
@@ -173,7 +173,7 @@ Monitoring and alerting bot for Discord servers — tracks activity, uptime, and
 <tr>
 <td width="50%" valign="top">
 
-**🗄️ Mongo-db-gen**
+**Mongo-db-gen**
 <br>
 Lightweight utility for generating and seeding MongoDB schemas and sample data for rapid backend prototyping.
 <br><br>
@@ -182,7 +182,7 @@ Lightweight utility for generating and seeding MongoDB schemas and sample data f
 </td>
 <td width="50%" valign="top">
 
-**🏢 Techlyn Developments**
+**Techlyn Developments**
 <br>
 Developer community and small studio focused on backend tooling, bot development, and mentoring newer developers.
 <br><br>
@@ -245,10 +245,10 @@ Developer community and small studio focused on backend tooling, bot development
 ### Roadmap
 
 ```text
-2024  ── Started backend development, first Discord bots
-2025  ── Launched Nazha, founded Techlyn Developments
-2026  ── Learning Java & Rust, exploring applied security
-Next  ── Ship Nazha v2, contribute to open-source infra projects
+2024  -- Started backend development, first Discord bots
+2025  -- Launched Nazha, founded Techlyn Developments
+2026  -- Learning Java & Rust, exploring applied security
+Next  -- Ship Nazha v2, contribute to open-source infra projects
 ```
 
 ---
@@ -259,12 +259,12 @@ Next  ── Ship Nazha v2, contribute to open-source infra projects
 
 | Milestone | Status |
 |---|---|
-| Nazha reaching thousands of active users | ✅ |
-| Founded Techlyn Developments | ✅ |
-| Published first open-source utility (Mongo-db-gen) | ✅ |
-| Java / Spring Boot proficiency | 🔄 In progress |
-| Rust systems project | 🔄 In progress |
-| First security write-up / CTF result | 🎯 Planned |
+| Nazha reaching thousands of active users | Done |
+| Founded Techlyn Developments | Done |
+| Published first open-source utility (Mongo-db-gen) | Done |
+| Java / Spring Boot proficiency | In progress |
+| Rust systems project | In progress |
+| First security write-up / CTF result | Planned |
 
 </div>
 
