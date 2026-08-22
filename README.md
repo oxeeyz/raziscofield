@@ -46,22 +46,12 @@ current direction      ->   Java, Rust, systems, applied security
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/DISCORD-ONLINE%20FOR%20COLLABORATION-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Discord collaboration status" />
-<br><br>
-Backend projects, bots, and developer conversations.
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/FOCUS-BUILDING%20NAZHA-171717?style=for-the-badge&logo=typescript&logoColor=fbbf24" alt="Current focus: building Nazha" />
-<br><br>
-Currently designing, shipping, and improving infrastructure.
-</td>
-</tr>
-</table>
+<a href="https://discord.com/users/875402851986325504">
+  <img src="https://lanyard.cnrad.dev/api/875402851986325504?theme=dark&bg=0b0f14&borderRadius=14px&idleMessage=Building%20something%20new&hideDiscrim=true&showDisplayName=true" width="500" alt="Live Discord status for Razi" />
+</a>
 
-<sub><a href="https://discord.com/users/875402851986325504">Open my Discord profile</a> - live presence widgets can be blocked by GitHub image caching.</sub>
+<br>
+<sub>Live Discord presence for <a href="https://discord.com/users/875402851986325504">Razi</a> - powered by Lanyard.</sub>
 
 </div>
 
