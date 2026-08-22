@@ -46,10 +46,22 @@ current direction      ->   Java, Rust, systems, applied security
 
 <br>
 
-<img src="https://lanyard.cnrad.dev/api/875402851986325504?theme=dark&bg=0b0f14&borderRadius=12px&idleMessage=Building+something+new" width="420" alt="Current Discord presence" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/DISCORD-ONLINE%20FOR%20COLLABORATION-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Discord collaboration status" />
+<br><br>
+Backend projects, bots, and developer conversations.
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/FOCUS-BUILDING%20NAZHA-171717?style=for-the-badge&logo=typescript&logoColor=fbbf24" alt="Current focus: building Nazha" />
+<br><br>
+Currently designing, shipping, and improving infrastructure.
+</td>
+</tr>
+</table>
 
-<br>
-<sub>Live Discord presence - powered by Lanyard</sub>
+<sub><a href="https://discord.com/users/875402851986325504">Open my Discord profile</a> - live presence widgets can be blocked by GitHub image caching.</sub>
 
 </div>
 
@@ -95,15 +107,24 @@ I'm strongest in Node.js/TypeScript backend work and database-driven application
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=knownasrazi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f14&title_color=fbbf24&icon_color=fbbf24&text_color=fef3c7" alt="Razi's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knownasrazi&layout=compact&langs_count=8&hide_border=true&bg_color=0b0f14&title_color=fbbf24&text_color=fef3c7" alt="Razi's most used languages" />
+
+<a href="https://github.com/knownasrazi?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-REPOSITORIES-fbbf24?style=for-the-badge&logo=github&logoColor=111827" alt="Open source repositories" /></a>
+<a href="https://github.com/knownasrazi?tab=followers"><img src="https://img.shields.io/github/followers/knownasrazi?label=FOLLOWERS&style=for-the-badge&color=fbbf24&labelColor=171717&logo=github&logoColor=fbbf24" alt="GitHub followers" /></a>
+<a href="https://github.com/knownasrazi?tab=stars"><img src="https://img.shields.io/github/stars/knownasrazi?label=STARS&style=for-the-badge&color=fbbf24&labelColor=171717&logo=github&logoColor=fbbf24" alt="GitHub stars" /></a>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center"><b>GitHub activity</b><br>Building backend systems and Discord infrastructure</td>
+<td align="center"><b>Contribution focus</b><br>TypeScript, Node.js, databases, and automation</td>
+<td align="center"><b>Public work</b><br><a href="https://github.com/knownasrazi">Browse all repositories</a></td>
+</tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=knownasrazi&hide_border=true&background=0b0f14&stroke=fbbf24&ring=fbbf24&fire=f59e0b&currStreakLabel=fbbf24&sideNums=fef3c7&dates=9ca3af" alt="Razi's contribution streak" />
-</div>
-
-## Now / next
+## Current direction
 
 - **Shipping:** the next iteration of Nazha and the infrastructure around it.
 - **Learning:** Spring Boot, Rust, Linux internals, and practical application security.
