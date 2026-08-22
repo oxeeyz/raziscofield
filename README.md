@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=TECHLYN&font=Orbitron&fontSize=62&fontColor=fff7ed&fontAlignY=33&stroke=fbbf24&strokeWidth=1&animation=fadeIn&desc=DEVELOPMENTS%20%20%2F%2F%20%20FOUNDED%20BY%20RAZI%20%20%C2%B7%20%20BACKEND%20SYSTEMS%20%20%C2%B7%20%20DEVELOPER%20TOOLS&descAlignY=59&descSize=15&color=0:0b0f14,48:14532d,100:b45309" width="100%" alt="Techlyn Developments founded by Razi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=RAZI&font=Orbitron&fontSize=64&fontColor=fff7ed&fontAlignY=33&stroke=fbbf24&strokeWidth=1&animation=fadeIn&desc=BACKEND%20SYSTEMS%20%20%C2%B7%20%20DEVELOPER%20TOOLS%20%20%C2%B7%20%20DISCORD%20INFRASTRUCTURE&descAlignY=59&descSize=15&color=0:050505,55:171717,100:fbbf24" width="100%" alt="Razi advanced banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=700&lines=Designing+systems+that+stay+online;Turning+ideas+into+useful+infrastructure;Building+the+next+version+of+Nazha" alt="Razi's animated engineering tagline" />
 
 <p>
   <a href="https://github.com/knownasrazi"><img src="https://img.shields.io/badge/GitHub-knownasrazi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://nazha.online"><img src="https://img.shields.io/badge/Website-nazha.online-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://nazha.online"><img src="https://img.shields.io/badge/Website-nazha.online-fbbf24?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Website" /></a>
+  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-Connect-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Discord" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=knownasrazi&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/knownasrazi?label=FOLLOWERS&style=flat-square&color=06b6d4&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=knownasrazi&label=PROFILE%20VIEWS&color=fbbf24&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/knownasrazi?label=FOLLOWERS&style=flat-square&color=fbbf24&logo=github&logoColor=111827" alt="Followers" />
 </p>
 
 </div>
@@ -38,14 +38,29 @@ current direction      ->   Java, Rust, systems, applied security
 | Developer tooling | Small utilities that make setup, testing, and prototyping faster |
 | Techlyn Developments | A developer studio and community for mentoring, collaboration, backend tooling, and practical open-source experiments |
 
+## Developer signals
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3500&pause=1000&color=FBBF24&center=true&vCenter=true&width=760&lines=%22Make+it+work%2C+make+it+clear%2C+make+it+last.%22;%22Good+systems+feel+boring+when+they+are+working.%22;%22Ship+small.+Learn+fast.+Keep+the+standard+high.%22" alt="Developer quotes" />
+
+<br>
+
+<img src="https://lanyard.cnrad.dev/api/875402851986325504?theme=dark&bg=0b0f14&borderRadius=12px&idleMessage=Building+something+new" width="420" alt="Current Discord presence" />
+
+<br>
+<sub>Live Discord presence - powered by Lanyard</sub>
+
+</div>
+
 ## Selected work
 
 ### Nazha - Discord music platform
 
 Audio playback, queues, filters, and server controls built around Lavalink. The project is designed for real communities, so reliability, clear UX, and maintainable service boundaries matter as much as features.
 
-<a href="https://top.gg/bot/1124681788070055967/vote"><img src="https://img.shields.io/badge/Explore%20Nazha-ff3366?style=for-the-badge&logo=discord&logoColor=white" alt="Explore Nazha" /></a>
-<a href="https://nazha.online"><img src="https://img.shields.io/badge/Techlyn%20Developments-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Techlyn Developments" /></a>
+<a href="https://top.gg/bot/1124681788070055967/vote"><img src="https://img.shields.io/badge/Explore%20Nazha-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Explore Nazha" /></a>
+<a href="https://nazha.online"><img src="https://img.shields.io/badge/Techlyn%20Developments-fbbf24?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Techlyn Developments" /></a>
 
 ### Discord Monitor Bot
 
@@ -80,12 +95,12 @@ I'm strongest in Node.js/TypeScript backend work and database-driven application
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=knownasrazi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=67e8f9&icon_color=2dd4bf&text_color=cbd5e1" alt="Razi's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knownasrazi&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1" alt="Razi's most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=knownasrazi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f14&title_color=fbbf24&icon_color=fbbf24&text_color=fef3c7" alt="Razi's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knownasrazi&layout=compact&langs_count=8&hide_border=true&bg_color=0b0f14&title_color=fbbf24&text_color=fef3c7" alt="Razi's most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=knownasrazi&hide_border=true&background=0f172a&stroke=0f766e&ring=2dd4bf&fire=f97316&currStreakLabel=67e8f9&sideNums=cbd5e1&dates=94a3b8" alt="Razi's contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=knownasrazi&hide_border=true&background=0b0f14&stroke=fbbf24&ring=fbbf24&fire=f59e0b&currStreakLabel=fbbf24&sideNums=fef3c7&dates=9ca3af" alt="Razi's contribution streak" />
 </div>
 
 ## Now / next
@@ -111,7 +126,7 @@ If you're building something useful, learning backend engineering, or want to co
 <div align="center">
 
 <a href="https://github.com/knownasrazi"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-<a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-Message%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message on Discord" /></a>
+<a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-Message%20me-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Message on Discord" /></a>
 <a href="https://github.com/sponsors/knownasrazi"><img src="https://img.shields.io/badge/Sponsor%20my%20work-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor my work" /></a>
 
 <br><br>
@@ -119,4 +134,4 @@ If you're building something useful, learning backend engineering, or want to co
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,45:0f766e,100:111827" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050505,50:171717,100:fbbf24" width="100%" alt="Footer banner" />
