@@ -122,6 +122,22 @@ I'm strongest in Node.js/TypeScript backend work and database-driven application
 </tr>
 </table>
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knownasrazi&bg_color=0b0f14&color=fef3c7&line=fbbf24&point=ffffff&area_color=fbbf24&area=true&hide_border=true&custom_title=RAZI%20%2F%2F%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Razi's GitHub contribution activity graph" />
+
+<br>
+
+<a href="https://github.com/knownasrazi"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownasrazi&theme=github_dark" width="100%" alt="Razi's GitHub profile contribution summary" /></a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownasrazi&theme=github_dark" height="170" alt="Razi's GitHub total statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knownasrazi&theme=github_dark&utcOffset=5.5" height="170" alt="Razi's productive coding time" />
+
+<br>
+<sub>Contribution data updates from GitHub through third-party summary services. Open the graph to view the full profile.</sub>
+
 </div>
 
 ## Current direction
