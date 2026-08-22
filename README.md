@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=RAZI%20SCOFIELD&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20systems%20%7C%20Developer%20tools%20%7C%20Discord%20infrastructure&descAlignY=60&descSize=16&color=0:111827,55:0f766e,100:06b6d4" width="100%" alt="Razi Scofield banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=RAZI%20%2F%2F%20SCOFIELD&font=Orbitron&fontSize=56&fontColor=ffffff&fontAlignY=35&stroke=67e8f9&strokeWidth=1&animation=fadeIn&desc=BACKEND%20SYSTEMS%20%20%C2%B7%20%20DEVELOPER%20TOOLS%20%20%C2%B7%20%20DISCORD%20INFRASTRUCTURE&descAlignY=58&descSize=15&color=0:020617,48:0f766e,100:06b6d4" width="100%" alt="Razi Scofield advanced banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Designing+systems+that+stay+online;Turning+ideas+into+useful+infrastructure;Building+the+next+version+of+Nazha" alt="Razi's animated engineering tagline" />
 
 <p>
   <a href="https://github.com/knownasrazi"><img src="https://img.shields.io/badge/GitHub-knownasrazi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
