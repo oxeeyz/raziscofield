@@ -47,11 +47,13 @@ current direction      ->   Java, Rust, systems, applied security
 <br>
 
 <a href="https://discord.com/users/875402851986325504">
-  <img src="https://lanyard.cnrad.dev/api/875402851986325504?theme=dark&bg=0b0f14&borderRadius=14px&idleMessage=Building%20something%20new&hideDiscrim=true&showDisplayName=true" width="500" alt="Live Discord status for Razi" />
+  <img src="https://discord.c99.nl/widget/theme-1/875402851986325504.png" width="500" alt="Live Discord status for Razi" />
 </a>
 
 <br>
-<sub>Live Discord presence for <a href="https://discord.com/users/875402851986325504">Razi</a> - powered by Lanyard.</sub>
+<img src="https://img.shields.io/badge/DISCORD-875402851986325504-fbbf24?style=for-the-badge&logo=discord&logoColor=111827" alt="Razi Discord profile" />
+<br>
+<sub>Live presence card for <a href="https://discord.com/users/875402851986325504">Razi</a>. If the widget is unavailable, use the profile button above.</sub>
 
 </div>
 
