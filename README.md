@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=RAZI%20%2F%2F%20SCOFIELD&font=Orbitron&fontSize=56&fontColor=ffffff&fontAlignY=35&stroke=67e8f9&strokeWidth=1&animation=fadeIn&desc=BACKEND%20SYSTEMS%20%20%C2%B7%20%20DEVELOPER%20TOOLS%20%20%C2%B7%20%20DISCORD%20INFRASTRUCTURE&descAlignY=58&descSize=15&color=0:020617,48:0f766e,100:06b6d4" width="100%" alt="Razi Scofield advanced banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=TECHLYN&font=Orbitron&fontSize=62&fontColor=fff7ed&fontAlignY=33&stroke=fbbf24&strokeWidth=1&animation=fadeIn&desc=DEVELOPMENTS%20%20%2F%2F%20%20FOUNDED%20BY%20RAZI%20%20%C2%B7%20%20BACKEND%20SYSTEMS%20%20%C2%B7%20%20DEVELOPER%20TOOLS&descAlignY=59&descSize=15&color=0:0b0f14,48:14532d,100:b45309" width="100%" alt="Techlyn Developments founded by Razi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Designing+systems+that+stay+online;Turning+ideas+into+useful+infrastructure;Building+the+next+version+of+Nazha" alt="Razi's animated engineering tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=700&lines=Designing+systems+that+stay+online;Turning+ideas+into+useful+infrastructure;Building+the+next+version+of+Nazha" alt="Razi's animated engineering tagline" />
 
 <p>
   <a href="https://github.com/knownasrazi"><img src="https://img.shields.io/badge/GitHub-knownasrazi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -21,7 +21,7 @@
 
 I'm Razi, a backend-focused developer from Kerala, India. I like turning ambitious ideas into dependable software: APIs that stay understandable, bots that stay online, and developer tools that remove repetitive work.
 
-My main project is **[Nazha](https://top.gg/bot/1124681788070055967/vote)**, a Lavalink-powered Discord music platform. I also run **[Techlyn Developments](https://nazha.online)**, where I build, learn, and collaborate with other developers.
+My main project is **[Nazha](https://top.gg/bot/1124681788070055967/vote)**, a Lavalink-powered Discord music platform. I also lead **[Techlyn Developments](https://nazha.online)**, my developer studio and community for building, learning, and collaborating on useful technology.
 
 ```text
 backend engineering   ->   APIs, services, data, automation
@@ -36,7 +36,7 @@ current direction      ->   Java, Rust, systems, applied security
 | Discord infrastructure | Music, moderation, monitoring, slash commands, and resilient event-driven services |
 | Backend systems | REST/GraphQL APIs, authentication, service boundaries, queues, and data models |
 | Developer tooling | Small utilities that make setup, testing, and prototyping faster |
-| Community projects | Mentoring, collaboration, and practical open-source experiments through Techlyn Developments |
+| Techlyn Developments | A developer studio and community for mentoring, collaboration, backend tooling, and practical open-source experiments |
 
 ## Selected work
 
@@ -45,7 +45,7 @@ current direction      ->   Java, Rust, systems, applied security
 Audio playback, queues, filters, and server controls built around Lavalink. The project is designed for real communities, so reliability, clear UX, and maintainable service boundaries matter as much as features.
 
 <a href="https://top.gg/bot/1124681788070055967/vote"><img src="https://img.shields.io/badge/Explore%20Nazha-ff3366?style=for-the-badge&logo=discord&logoColor=white" alt="Explore Nazha" /></a>
-<a href="https://nazha.online"><img src="https://img.shields.io/badge/Open%20the%20dashboard-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the dashboard" /></a>
+<a href="https://nazha.online"><img src="https://img.shields.io/badge/Techlyn%20Developments-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Techlyn Developments" /></a>
 
 ### Discord Monitor Bot
 
